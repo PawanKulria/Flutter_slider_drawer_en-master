@@ -1,9 +1,9 @@
 # Flutter slider drawer
 
-[![pub package](https://img.shields.io/pub/v/flutter_slider_drawer)](https://pub.dev/packages/flutter_slider_drawer)   [![pub package](https://img.shields.io/github/languages/code-size/NikhilVadoliya/Flutter_slider_drawer)](https://pub.dev/packages/flutter_slider_drawer)
+[![pub package](https://img.shields.io/pub/v/flutter_slider_drawer_enhanced)](https://pub.dev/packages/flutter_slider_drawer_enhanced)   [![pub package](https://img.shields.io/github/languages/code-size/PawanKulria/Flutter_slider_drawer_en)](https://pub.dev/packages/flutter_slider_drawer_enhanced)
 
 
-A Flutter package with custom implementation of the Slider Drawer Menu 
+A Flutter package with custom implementation of the Slider Drawer Menu with enhanced drawer height
 
 ![Plugin example demo](demo.gif)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="slider_2.gif" alt="drawing" width="250" height="481"/>
@@ -13,11 +13,11 @@ A Flutter package with custom implementation of the Slider Drawer Menu
 
 
 
-To start using this package, add `flutter_slider_drawer` dependency to your `pubspec.yaml`
+To start using this package, add `flutter_slider_drawer_enhanced` dependency to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-  flutter_slider_drawer: '<latest_release>'
+  flutter_slider_drawer_enhanced: '<latest_release>'
 ```
 
  

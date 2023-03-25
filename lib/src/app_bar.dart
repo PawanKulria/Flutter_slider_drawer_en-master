@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_slider_drawer/flutter_slider_drawer.dart';
+import 'package:flutter_slider_drawer_enhanced/flutter_slider_drawer.dart';
 
 class SAppBar extends StatelessWidget {
   final Color splashColor;

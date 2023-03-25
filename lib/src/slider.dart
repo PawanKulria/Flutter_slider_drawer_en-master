@@ -1,11 +1,11 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_slider_drawer/src/app_bar.dart';
-import 'package:flutter_slider_drawer/src/helper/slider_app_bar.dart';
-import 'package:flutter_slider_drawer/src/helper/slider_shadow.dart';
-import 'package:flutter_slider_drawer/src/helper/utils.dart';
-import 'package:flutter_slider_drawer/src/slider_shadow.dart';
-import 'package:flutter_slider_drawer/src/slider_bar.dart';
-import 'package:flutter_slider_drawer/src/slider_direction.dart';
+import 'package:flutter_slider_drawer_enhanced/src/app_bar.dart';
+import 'package:flutter_slider_drawer_enhanced/src/helper/slider_app_bar.dart';
+import 'package:flutter_slider_drawer_enhanced/src/helper/slider_shadow.dart';
+import 'package:flutter_slider_drawer_enhanced/src/helper/utils.dart';
+import 'package:flutter_slider_drawer_enhanced/src/slider_shadow.dart';
+import 'package:flutter_slider_drawer_enhanced/src/slider_bar.dart';
+import 'package:flutter_slider_drawer_enhanced/src/slider_direction.dart';
 
 /// SliderDrawer which have two [child] and [slider] parameter
 ///
