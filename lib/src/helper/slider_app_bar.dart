@@ -44,7 +44,7 @@ class SliderAppBar extends StatelessWidget {
         style: TextStyle(fontWeight: FontWeight.w500, fontSize: 20)),
     this.isTitleCenter = true,
     this.appBarColor = const Color(0xffffffff),
-    this.appBarPadding = const EdgeInsets.only(top: 30),
+    this.appBarPadding = const EdgeInsets.only(top: 60),
     this.trailing,
     this.drawerIconColor = const Color(0xffab4242),
     this.drawerIcon,
